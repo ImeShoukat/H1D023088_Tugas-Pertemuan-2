@@ -7,4 +7,4 @@
 - **Shift KRS:** C
 - **Shift Akhir:** D
 
-![Screenshot Apk](screenshoot/HasilSS.jpeg
+![Screenshot Apk](screenshoot/HasilSS.jpeg)
