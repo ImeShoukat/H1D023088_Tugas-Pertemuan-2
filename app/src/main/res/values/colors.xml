@@ -7,4 +7,6 @@
     <color name="green">#FF00FF00</color>
     <color name="blue">#FF0000FF</color>
     <color name="purple">#6200EE</color>
+    <color name="primary">#0074FF</color>
+    <color name="secondary">#FFFDD500</color>
 </resources>
