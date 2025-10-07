@@ -15,3 +15,6 @@
 
 ### pertemuan 4:
 ![Screenshot Apk](screenshoot/list-buku.gif)
+
+### pertemuan 5:
+![Screenshot Apk](screenshoot/modal-buku.gif)
